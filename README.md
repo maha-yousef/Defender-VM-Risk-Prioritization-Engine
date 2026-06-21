@@ -22,6 +22,30 @@ The latest version of the engine is available here:
 [Defender_VM_Risk_Prioritization_Engine_v1.0](Engine/Defender_VM_Risk_Prioritization_Engine_v1.0.xlsx)
 
 ---
+---
+
+## Sample Dataset
+
+A sanitized Defender Vulnerability Management sample export is included for testing and demonstration purposes.
+
+The dataset contains multiple vulnerability scenarios covering:
+
+- Critical, High, Medium, and Low severity findings
+- Different CVSS score ranges
+- Different EPSS exploitation probabilities
+- Exploit availability scenarios
+- Known threat indicators
+- Security alert correlation
+- Different exposure levels
+- Vulnerability age variations
+- Multiple remediation statuses
+
+The sample data is designed to demonstrate how the engine converts vulnerability information into risk-based priorities (P1–P4).
+
+📄 **Sample Export:**  
+[Sample Defender VM Export](Sample-Data/Sample_Defender_VM_Export.csv)
+
+---
 
 ## Problem Statement
 
