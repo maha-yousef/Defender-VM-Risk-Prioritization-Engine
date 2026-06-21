@@ -14,25 +14,6 @@ Defender VM Risk Prioritization Engine is an Excel-based security improvement in
 The goal is not to replace Microsoft Defender Vulnerability Management, but to help security teams prioritize remediation activities based on real operational risk.
 
 ---
-## Download
-
-The latest version of the engine is available here:
-
-📥 **Engine:**  
-[Defender_VM_Risk_Prioritization_Engine_v1.0](Engine/Defender_VM_Risk_Prioritization_Engine_v1.0.xlsx)
-
----
-
-## Sample Dataset
-
-A sanitized Defender Vulnerability Management sample export is included for testing and demonstration purposes.
-
-The sample data is designed to demonstrate how the engine converts vulnerability information into risk-based priorities (P1–P4).
-
-📄 **Sample Export:**  
-[Sample Defender VM Export](Sample-Data/Sample_Defender_VM_Export.csv)
-
----
 
 ## Problem Statement
 
@@ -171,21 +152,23 @@ Provides:
 ![Remediation Intelligence](Screenshots/Remediation_Intelligence.png)
 
 ---
+## Download
 
-## Repository Structure
+The latest version of the engine is available here:
 
-```
-Defender-VM-Risk-Prioritization-Engine
+📥 **Engine:**  
+[Defender_VM_Risk_Prioritization_Engine_v1.0](Engine/Defender_VM_Risk_Prioritization_Engine_v1.0.xlsx)
 
-├── Engine
-│   └── Defender VM Risk Engine.xlsx
-│
-├── Documentation
-│
-├── Screenshots
-│
-└── Sample-Data
-```
+---
+
+## Sample Dataset
+
+A sanitized Defender Vulnerability Management sample export is included for testing and demonstration purposes.
+
+The sample data is designed to demonstrate how the engine converts vulnerability information into risk-based priorities (P1–P4).
+
+📄 **Sample Export:**  
+[Sample Defender VM Export](Sample-Data/Sample_Defender_VM_Export.csv)
 
 ---
 
