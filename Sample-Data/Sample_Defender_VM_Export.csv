@@ -1,0 +1,11 @@
+Name,Severity,CVSS v3,EPSS score,Age (days),Published,First detected,Updated,Has Exploit,Has Known Threats,Has Associated Alerts,Related Software,Exposed Machines,Description,Status
+CVE-2025-1001 Critical RCE Vulnerability,Critical,9.8,0.92,180,2025-01-01,2025-01-10,2025-06-01,Yes,Yes,Yes,Windows Server,800,Sample actively exploited critical vulnerability,RemediationRequired
+CVE-2025-1002 Critical Exposure Vulnerability,Critical,9.5,0.2,45,2025-03-01,2025-03-20,2025-06-01,No,No,No,Exchange Server,300,Sample critical business system vulnerability,RemediationRequired
+CVE-2025-2001 High OpenSSL Vulnerability,High,8.8,0.76,100,2025-02-01,2025-02-10,2025-06-01,Yes,Yes,No,OpenSSL,150,Sample high risk library vulnerability,In Progress
+CVE-2025-2002 High SQL Vulnerability,High,8.0,0.35,70,2025-03-01,2025-03-15,2025-06-01,Yes,No,No,SQL Server,70,Sample database vulnerability,RemediationRequired
+CVE-2025-3001 Medium Browser Vulnerability,Medium,6.5,0.15,40,2025-04-01,2025-04-10,2025-06-01,No,No,No,Google Chrome,1200,Sample widespread browser vulnerability,RemediationRequired
+CVE-2025-3002 Medium Internal App Vulnerability,Medium,5.5,0.05,20,2025-05-01,2025-05-05,2025-06-01,No,No,No,Internal Application,20,Sample medium application vulnerability,In Progress
+CVE-2025-4001 Low Vulnerability,Low,3.5,0.01,5,2025-06-01,2025-06-05,2025-06-10,No,No,No,Sample Software,2,Sample low risk vulnerability,Risk Accepted
+CVE-2025-5001 Alert Driven Vulnerability,Medium,6.8,0.5,95,2025-02-15,2025-03-01,2025-06-01,No,Yes,Yes,Apache Server,250,Sample alert correlated vulnerability,RemediationRequired
+CVE-2025-6001 Old Vulnerability,High,7.5,0.08,365,2024-05-01,2024-06-01,2025-06-01,No,No,No,Legacy Application,50,Sample aged vulnerability,Exception
+CVE-2025-7001 Endpoint Vulnerability,Medium,6.0,0.1,30,2025-05-01,2025-05-15,2025-06-01,No,No,No,Microsoft Edge,500,Sample endpoint vulnerability,Remediated
